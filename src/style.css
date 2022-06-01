@@ -4,4 +4,12 @@ body {
   padding-top: 50px;
   padding-left: 10px;
   padding-right: 10px;
+  
+}
+
+.table{
+  font-size: 11px;
+ background-color:rgb(229, 247, 241);
+ border: 2px solid rgb(29, 65, 54);
+
 }
